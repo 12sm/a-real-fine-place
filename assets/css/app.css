@@ -180,7 +180,7 @@ width: 90%!important;
 #subscribe-submit > input{
   height: 39px;
   width: auto!important;
-  float: none!important;
+  float: left;
   padding: 0 6px;
   background: #d953a8;
   font-family: 'Quicksand', arial, helvetica, sans-serif;
