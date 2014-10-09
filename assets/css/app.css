@@ -144,9 +144,14 @@ body.contact .content .wpcf7-submit {max-width: 318px; margin-top: 20px;}
 #sidebar .widget-sign-up #e2ma_signup_submit_button { height: 39px; width:auto!important; float:none!important; padding: 0 6px; background: #d953a8; font-family: 'Quicksand', arial, helvetica, sans-serif; font-size: 27px; line-height: 39px; font-weight: 300; color: #fff; text-transform: uppercase; border: 0; }
 #sidebar .widget-sign-up #e2ma_signup_submit_button:hover { background: #ff59c2;}
 
+#subscribe-submit > input { height: 39px; width:auto!important; float:none!important; padding: 0 6px; background: #d953a8; font-family: 'Quicksand', arial, helvetica, sans-serif; font-size: 27px; line-height: 39px; font-weight: 300; color: #fff; text-transform: uppercase; border: 0; }
+#subscribe-submit > input:hover { background: #ff59c2;}
+
 .e2ma_signup_form_button_row {
 float: left;
 }
+
+.jetpack_subscription_widget #subscribe-submit > input
 
 .e2ma_signup_form_label,
 .e2ma_signup_form_required_footnote,
@@ -172,7 +177,7 @@ width: 90%!important;
   padding-bottom: 0 !important;
 }
 
-#subscribe-submit {
+#subscribe-submit > input{
   height: 39px;
   width: auto!important;
   float: none!important;
