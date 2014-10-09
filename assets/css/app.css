@@ -100,7 +100,10 @@ body.contact .content .wpcf7-submit {max-width: 318px; margin-top: 20px;}
 #sidebar .widget h3 a:hover { color: #bead50; text-decoration: none; }
 #sidebar .widget-about-us { border: 0; padding: 0; }
 #sidebar .widget-about-us a {text-decoration:none;}
-#sidebar .widget-about-us h2.widgettitle > label { font-family: 'Quicksand', arial, helvetica, sans-serif; font-size: 33px; line-height: 42px; font-weight: 300; color: #828282; background: #f1f1f1; text-align: center; padding: 0 10px; margin-bottom: 13px; }
+#sidebar .widget-about-us h2.widgettitle { font-family: 'Quicksand', arial, helvetica, sans-serif; font-size: 33px; line-height: 42px; font-weight: 300; color: #828282; background: #f1f1f1; text-align: center; padding: 0 10px; margin-bottom: 13px; }
+
+.widgettitle > label { font-family: 'Quicksand', arial, helvetica, sans-serif; font-size: 33px; line-height: 42px; font-weight: 300; color: #828282; background: #f1f1f1; text-align: center; padding: 0 10px; margin-bottom: 13px; }
+
 #sidebar .widget-about-us .widget-img { max-width: 247px; border: 2px solid #e6e6e6; padding: 10px; margin: 0 auto 2px auto; }
 #sidebar .widget-socials { border: 0; padding: 0; margin-bottom: 13px; overflow: hidden; *padding-left: 30px; }
 #sidebar .widget-socials a { height: 57px; width: 57px; display: inline-block; background: url(/assets/img/socials.png) no-repeat 0 0; font-size: 0; line-height: 0; text-indent: -4000px; *float: left; *display: inline; *margin: 0 10px 5px 10px; }
