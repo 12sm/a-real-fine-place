@@ -109,6 +109,7 @@ body.contact .content .wpcf7-submit {max-width: 318px; margin-top: 20px;}
   font-weight: 300;
   color: #464646;
   padding-bottom: 7px;
+  margin-bottom: 0 !important;
 }
 
 #sidebar .widget-about-us .widget-img { max-width: 247px; border: 2px solid #e6e6e6; padding: 10px; margin: 0 auto 2px auto; }
@@ -169,6 +170,7 @@ width: 90%!important;
   color: #333333;
   line-height: 15px;
   font-weight: 300;
+  padding-bottom: 0 !important;
 }
 
 #subscribe-submit {
