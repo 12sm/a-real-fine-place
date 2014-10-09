@@ -171,6 +171,22 @@ width: 90%!important;
   font-weight: 300;
 }
 
+#subscribe-submit {
+  height: 39px;
+  width: auto!important;
+  float: none!important;
+  padding: 0 6px;
+  background: #d953a8;
+  font-family: 'Quicksand', arial, helvetica, sans-serif;
+  font-size: 27px;
+  line-height: 39px;
+  font-weight: 300;
+  color: #fff;
+  text-transform: uppercase;
+  border: 0;
+  cursor: pointer;
+}
+
 .e2ma_signup_form_row {
 border: 0px solid #ddd!important;
 }
