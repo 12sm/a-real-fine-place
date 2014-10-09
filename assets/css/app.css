@@ -145,7 +145,7 @@ body.contact .content .wpcf7-submit {max-width: 318px; margin-top: 20px;}
 #sidebar .widget-sign-up #e2ma_signup_submit_button:hover { background: #ff59c2;}
 
 .e2ma_signup_form_button_row {
-float: ;
+float: left;
 }
 
 .e2ma_signup_form_label,
